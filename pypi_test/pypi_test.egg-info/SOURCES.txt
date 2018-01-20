@@ -1,0 +1,6 @@
+setup.py
+pypi_test.egg-info/PKG-INFO
+pypi_test.egg-info/SOURCES.txt
+pypi_test.egg-info/dependency_links.txt
+pypi_test.egg-info/top_level.txt
+pypi_test.egg-info/zip-safe
