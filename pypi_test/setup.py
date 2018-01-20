@@ -34,7 +34,6 @@ PACKAGES = find_packages()
 """
 包含的包，可以多个，这是一个列表
 """
-
 DESCRIPTION = "this is a test package for packing python liberaries tutorial."
 """
 关于这个包的描述
