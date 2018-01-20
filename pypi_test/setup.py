@@ -25,12 +25,12 @@ except:
 # with io.open("README.rst",encoding ='utf-8') as f:
 #     LONG_DESCRIPTION =f.read()
 long_description=open('READEME.rst').read()
-NAME = "pypi_test"
+NAME = "pypi_t1t2t10"
 """
 名字，一般放你包的名字即可
 """
 # install_reauires = open("requirtment.txt").readlines()
-PACKAGES = [""]
+PACKAGES = find_packages()
 """
 包含的包，可以多个，这是一个列表
 """
@@ -61,7 +61,7 @@ AUTHOR_EMAIL = "youremail@email.com"
 作者的邮件地址
 """
 
-URL = "https://github.com/WangYan969/pypi_test.git"
+URL = "https://github.com/WangYan969/turing.git"
 """
 你这个包的项目地址，如果有，给一个吧，没有你直接填写在PyPI你这个包的地址也是可以的
 """
